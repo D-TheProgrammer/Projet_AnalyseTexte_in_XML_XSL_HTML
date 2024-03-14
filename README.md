@@ -96,7 +96,7 @@ Ce fichier HTML permet de voir les phrases générées via un surlignement.
 > [!TIP]
 > Avec cela vous obtiendrez le fichier .xml complet il faudra alors créer l'html à partir du .xsl et du .xml comme ceci :
 > ```bash
-> xsltproc output_partie3.xml output_partie3.xsl -o output_partie3.html
+> xsltproc output_partie3.xml output_partie3.xsl -o index.html
 > ````
 
 
@@ -208,7 +208,7 @@ This HTML file allows you to see the sentences generated via highlighting.
 > [!TIP]
 > With this you will obtain the complete .xml file you will then have to create the html from the .xsl and the .xml like this:
 > ```bash
-> xsltproc output_partie3.xml output_partie3.xsl -o output_partie3.html
+> xsltproc output_partie3.xml output_partie3.xsl -o index.html
 > ````
 
 
