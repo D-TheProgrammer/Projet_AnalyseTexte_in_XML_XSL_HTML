@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<?xml-stylesheet type="text/xsl" href="output_partie3.xsl"?>
+<text>
+<sentence id="1">
+   <mot id="2">#DIY</mot>
+</sentence>
+<sentence id="2">
+   <mot id="1" text="Le" Gender="Masc" Number="Sing" PronType="Art" >Le</mot>
+   <mot id="2" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="3" text="qui" PronType="Rel" >qui</mot>
+   <mot id="4" text="voulait" Number="Sing" Tense="Imp" VerbForm="Fin" >voulait</mot>
+   <mot id="5" text="voir" VerbForm="Inf" >voir</mot>
+   <mot id="6" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="7" text="monde" Gender="Masc" Number="Sing" >monde</mot>
+</sentence>
+<sentence id="3">
+   <mot id="1" text="-" >-</mot>
+   <mot id="2" text="Conte" >Conte</mot>
+   <mot id="3" text="pour" >pour</mot>
+   <mot id="4" text="enfant" Number="Sing" >enfant</mot>
+   <mot id="5" text="
+" >
+</mot>
+</sentence>
+<sentence id="4">
+   <mot id="1" text="Par" >Par</mot>
+   <mot id="2" text="Sabine" >Sabine</mot>
+   <mot id="3" text="D'" >D'</mot>
+   <mot id="4" text="Halluin" >Halluin</mot>
+   <mot id="5" text="
+" >
+</mot>
+</sentence>
+<sentence id="5">
+   <mot id="1" text="C’" Gender="Masc" Number="Sing" >C’</mot>
+</sentence>
+<sentence id="6">
+   <mot id="1" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="2" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="3" text="histoire" Gender="Fem" Number="Sing" >histoire</mot>
+   <mot id="4" text="d’" >d’</mot>
+   <mot id="5" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="6" text="petit" Gender="Masc" Number="Sing" >petit</mot>
+   <mot id="7" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="8" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="9" text="bord" Gender="Masc" Number="Sing" >bord</mot>
+   <mot id="10" text="d’" Gender="Masc" Number="Sing" >d’</mot>
+   <mot id="11" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="12" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="13" text="." >.</mot>
+</sentence>
+<sentence id="7">
+   <mot id="1" text="Un" Gender="Masc" Number="Sing" PronType="Art" >Un</mot>
+   <mot id="2" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="3" text="de" >de</mot>
+   <mot id="4" text="campagne" Gender="Fem" Number="Sing" >campagne</mot>
+   <mot id="5" text="." >.</mot>
+   <mot id="6" text="
+" >
+</mot>
+</sentence>
+<sentence id="8">
+   <mot id="1" text="Il" Gender="Masc" Number="Sing" >Il</mot>
+   <mot id="2" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="3" text="là" >là</mot>
+   <mot id="4" text="," >,</mot>
+   <mot id="5" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="6" text="bord" Gender="Masc" Number="Sing" >bord</mot>
+   <mot id="7" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="8" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="9" text="," >,</mot>
+   <mot id="10" text="depuis" >depuis</mot>
+   <mot id="11" text="sa" Gender="Fem" Number="Sing" >sa</mot>
+   <mot id="12" text="naissance" Gender="Fem" Number="Sing" >naissance</mot>
+   <mot id="13" text="." >.</mot>
+</sentence>
+<sentence id="9">
+   <mot id="1" text="Devenu" Gender="Masc" Number="Sing" >Devenu</mot>
+   <mot id="2" text="grand" Gender="Masc" Number="Sing" >grand</mot>
+   <mot id="3" text="," >,</mot>
+   <mot id="4" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="5" text="a" Number="Sing" Tense="Pres" VerbForm="Fin" >a</mot>
+   <mot id="6" text="désormais" >désormais</mot>
+   <mot id="7" text="envie" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >envie</mot>
+   <mot id="8" text="de" >de</mot>
+   <mot id="9" text="découvrir" VerbForm="Inf" >découvrir</mot>
+   <mot id="10" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="11" text="monde" Gender="Masc" Number="Sing" >monde</mot>
+   <mot id="12" text="," >,</mot>
+   <mot id="13" text="de" >de</mot>
+   <mot id="14" text="parcourir" VerbForm="Inf" >parcourir</mot>
+   <mot id="15" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="16" text="terre" Gender="Fem" Number="Sing" >terre</mot>
+   <mot id="17" text="..." >...</mot>
+   <mot id="18" text="
+
+" >
+
+</mot>
+   <mot id="19" text="«" >«</mot>
+</sentence>
+<sentence id="10">
+   <mot id="1" text="Hélas" >Hélas</mot>
+   <mot id="2" text="," >,</mot>
+</sentence>
+<sentence id="11">
+   <mot id="1" text="caillou" Number="Sing" Tense="Past" VerbForm="Fin" >caillou</mot>
+   <mot id="2" text="que" >que</mot>
+   <mot id="3" text="je" Number="Sing" >je</mot>
+   <mot id="4" text="suis" Number="Sing" Tense="Pres" VerbForm="Fin" >suis</mot>
+   <mot id="5" text="," >,</mot>
+   <mot id="6" text="comment" PronType="Int" >comment</mot>
+   <mot id="7" text="sortir" VerbForm="Inf" >sortir</mot>
+   <mot id="8" text="de" >de</mot>
+   <mot id="9" text="mon" Number="Sing" >mon</mot>
+   <mot id="10" text="bord" Gender="Masc" Number="Sing" >bord</mot>
+   <mot id="11" text="de" >de</mot>
+   <mot id="12" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="13" text="?" >?</mot>
+</sentence>
+<sentence id="12">
+   <mot id="1" text="..." >...</mot>
+   <mot id="2" text="»" >»</mot>
+   <mot id="3" text="se" >se</mot>
+   <mot id="4" text="demande" Number="Sing" Tense="Pres" VerbForm="Fin" >demande</mot>
+   <mot id="5" text="-" Gender="Masc" Number="Sing" >-</mot>
+   <mot id="6" text="t" Number="Sing" Tense="Pres" VerbForm="Fin" >t</mot>
+   <mot id="7" text="--" Gender="Masc" Number="Sing" >--</mot>
+   <mot id="8" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="9" text="sans" >sans</mot>
+   <mot id="10" text="cesse" Gender="Fem" Number="Sing" >cesse</mot>
+   <mot id="11" text="." >.</mot>
+   <mot id="12" text="
+" >
+</mot>
+   <mot id="13" text="Son" Number="Sing" >Son</mot>
+   <mot id="14" text="désir" Gender="Masc" Number="Sing" >désir</mot>
+   <mot id="15" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="16" text="torture" Gender="Fem" Number="Sing" >torture</mot>
+   <mot id="17" text="," >,</mot>
+   <mot id="18" text="jour" Gender="Masc" Number="Sing" >jour</mot>
+   <mot id="19" text="et" >et</mot>
+   <mot id="20" text="nuit" Gender="Fem" Number="Sing" >nuit</mot>
+   <mot id="21" text="," >,</mot>
+   <mot id="22" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="23" text="songe" Number="Sing" Tense="Pres" VerbForm="Fin" >songe</mot>
+   <mot id="24" text="à" >à</mot>
+   <mot id="25" text="des" Number="Plur" PronType="Art" >des</mot>
+   <mot id="26" text="horizons" Gender="Fem" Number="Plur" >horizons</mot>
+   <mot id="27" text="nouveaux" Gender="Masc" Number="Plur" >nouveaux</mot>
+   <mot id="28" text="," >,</mot>
+   <mot id="29" text="à" >à</mot>
+   <mot id="30" text="des" Number="Plur" PronType="Art" >des</mot>
+   <mot id="31" text="rencontres" Number="Plur" >rencontres</mot>
+   <mot id="32" text="imprévues" Number="Plur" >imprévues</mot>
+   <mot id="33" text="..." >...</mot>
+   <mot id="34" text="
+
+" >
+
+</mot>
+   <mot id="35" text="«" >«</mot>
+   <mot id="36" text="Oui" >Oui</mot>
+   <mot id="37" text="," >,</mot>
+   <mot id="38" text="mais" >mais</mot>
+   <mot id="39" text="voilà" Gender="Masc" Number="Plur" Tense="Past" VerbForm="Part" >voilà</mot>
+   <mot id="40" text="," >,</mot>
+   <mot id="41" text="se" >se</mot>
+   <mot id="42" text="dit" Number="Sing" Tense="Pres" VerbForm="Fin" >dit</mot>
+   <mot id="43" text="-il" Gender="Masc" Number="Sing" >-il</mot>
+   <mot id="44" text="," >,</mot>
+   <mot id="45" text="pour" >pour</mot>
+   <mot id="46" text="me" Number="Sing" >me</mot>
+   <mot id="47" text="déplacer" VerbForm="Inf" >déplacer</mot>
+   <mot id="48" text="," >,</mot>
+   <mot id="49" text="je" Number="Sing" >je</mot>
+   <mot id="50" text="n’" Number="Sing" Tense="Pres" VerbForm="Fin" >n’</mot>
+   <mot id="51" text="ai" Number="Sing" Tense="Pres" VerbForm="Fin" >ai</mot>
+   <mot id="52" text="pas" >pas</mot>
+   <mot id="53" text="de" Number="Sing" PronType="Art" >de</mot>
+   <mot id="54" text="jambe" Gender="Fem" Number="Sing" >jambe</mot>
+   <mot id="55" text="ni" >ni</mot>
+   <mot id="56" text="de" >de</mot>
+   <mot id="57" text="patte" Gender="Fem" Number="Sing" >patte</mot>
+   <mot id="58" text="comme" >comme</mot>
+   <mot id="59" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="60" text="chiens" Gender="Masc" Number="Plur" >chiens</mot>
+   <mot id="61" text="," >,</mot>
+   <mot id="62" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="63" text="chats" Gender="Masc" Number="Plur" >chats</mot>
+   <mot id="64" text="ou" >ou</mot>
+   <mot id="65" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="66" text="renards" Gender="Fem" Number="Plur" >renards</mot>
+   <mot id="67" text="..." >...</mot>
+</sentence>
+<sentence id="13">
+   <mot id="1" text="Je" Number="Sing" >Je</mot>
+   <mot id="2" text="n’" Number="Sing" Tense="Pres" VerbForm="Fin" >n’</mot>
+   <mot id="3" text="ai" Number="Sing" Tense="Pres" VerbForm="Fin" >ai</mot>
+   <mot id="4" text="pas" >pas</mot>
+   <mot id="5" text="d’" >d’</mot>
+   <mot id="6" text="ailes" Gender="Fem" Number="Plur" >ailes</mot>
+   <mot id="7" text="comme" >comme</mot>
+   <mot id="8" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="9" text="mésanges" Gender="Masc" Number="Plur" >mésanges</mot>
+   <mot id="10" text="," >,</mot>
+   <mot id="11" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="12" text="canards" Gender="Masc" Number="Plur" >canards</mot>
+   <mot id="13" text="ou" >ou</mot>
+   <mot id="14" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="15" text="hirondelles" Gender="Fem" Number="Plur" >hirondelles</mot>
+   <mot id="16" text="..." >...</mot>
+</sentence>
+<sentence id="14">
+   <mot id="1" text="Je" Number="Sing" >Je</mot>
+   <mot id="2" text="n’" Number="Sing" Tense="Pres" VerbForm="Fin" >n’</mot>
+   <mot id="3" text="ai" Number="Sing" Tense="Pres" VerbForm="Fin" >ai</mot>
+   <mot id="4" text="même" >même</mot>
+   <mot id="5" text="pas" >pas</mot>
+   <mot id="6" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="7" text="légèreté" Gender="Fem" Number="Sing" >légèreté</mot>
+   <mot id="8" text="d’" >d’</mot>
+   <mot id="9" text="une" Gender="Fem" Number="Sing" PronType="Art" >une</mot>
+   <mot id="10" text="feuille" Gender="Fem" Number="Sing" >feuille</mot>
+   <mot id="11" text="pour" >pour</mot>
+   <mot id="12" text="me" Number="Sing" >me</mot>
+   <mot id="13" text="faire" VerbForm="Inf" >faire</mot>
+   <mot id="14" text="porter" VerbForm="Inf" >porter</mot>
+   <mot id="15" text="par" >par</mot>
+   <mot id="16" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="17" text="vent" Gender="Masc" Number="Sing" >vent</mot>
+   <mot id="18" text="." >.</mot>
+</sentence>
+<sentence id="15">
+   <mot id="1" text="Comment" PronType="Int" >Comment</mot>
+   <mot id="2" text="faire" VerbForm="Inf" >faire</mot>
+   <mot id="3" text="?" >?</mot>
+</sentence>
+<sentence id="16">
+   <mot id="1" text="..." >...</mot>
+   <mot id="2" text="»" >»</mot>
+   <mot id="3" text="
+
+" >
+
+</mot>
+   <mot id="4" text="Alors" >Alors</mot>
+   <mot id="5" text="," >,</mot>
+   <mot id="6" text="réunissant" Tense="Pres" VerbForm="Part" >réunissant</mot>
+   <mot id="7" text="toute" Gender="Fem" Number="Sing" >toute</mot>
+   <mot id="8" text="sa" Gender="Fem" Number="Sing" >sa</mot>
+   <mot id="9" text="volonté" Gender="Fem" Number="Sing" >volonté</mot>
+   <mot id="10" text="en" >en</mot>
+   <mot id="11" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="12" text="effort" Gender="Masc" Number="Sing" >effort</mot>
+   <mot id="13" text="superbe" Number="Sing" >superbe</mot>
+   <mot id="14" text="," >,</mot>
+   <mot id="15" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="16" text="réfléchit" Number="Sing" Tense="Pres" VerbForm="Fin" >réfléchit</mot>
+   <mot id="17" text="," >,</mot>
+   <mot id="18" text="réfléchit" Gender="Fem" Number="Sing" >réfléchit</mot>
+   <mot id="19" text="," >,</mot>
+   <mot id="20" text="réfléchit" Gender="Fem" Number="Sing" >réfléchit</mot>
+   <mot id="21" text="longtemps" >longtemps</mot>
+   <mot id="22" text="dans" >dans</mot>
+   <mot id="23" text="sa" Gender="Fem" Number="Sing" >sa</mot>
+   <mot id="24" text="tête" Gender="Fem" Number="Sing" >tête</mot>
+   <mot id="25" text="de" >de</mot>
+   <mot id="26" text="caillou" Gender="Fem" Number="Sing" >caillou</mot>
+   <mot id="27" text="d’" >d’</mot>
+   <mot id="28" text="où" PronType="Rel" >où</mot>
+   <mot id="29" text="lui" Number="Sing" >lui</mot>
+   <mot id="30" text="surgit" Number="Sing" Tense="Past" VerbForm="Fin" >surgit</mot>
+   <mot id="31" text="enfin" >enfin</mot>
+   <mot id="32" text="une" Gender="Fem" Number="Sing" PronType="Art" >une</mot>
+   <mot id="33" text="idée" Gender="Fem" Number="Sing" >idée</mot>
+   <mot id="34" text=":" >:</mot>
+   <mot id="35" text="
+" >
+</mot>
+   <mot id="36" text="«" >«</mot>
+   <mot id="37" text="Voilà" Gender="Masc" Number="Sing" >Voilà</mot>
+   <mot id="38" text="," >,</mot>
+   <mot id="39" text="j’" >j’</mot>
+   <mot id="40" text="ai" Number="Sing" Tense="Pres" VerbForm="Fin" >ai</mot>
+   <mot id="41" text="trouvé" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >trouvé</mot>
+   <mot id="42" text="!" >!</mot>
+   <mot id="43" text="..." >...</mot>
+</sentence>
+<sentence id="17">
+   <mot id="1" text="Si" >Si</mot>
+   <mot id="2" text="je" Number="Sing" >je</mot>
+   <mot id="3" text="deviens" Number="Sing" Tense="Pres" VerbForm="Fin" >deviens</mot>
+   <mot id="4" text="lisse" Number="Plur" >lisse</mot>
+   <mot id="5" text="et" >et</mot>
+   <mot id="6" text="bien" >bien</mot>
+   <mot id="7" text="rond" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >rond</mot>
+   <mot id="8" text="et" >et</mot>
+   <mot id="9" text="que" >que</mot>
+   <mot id="10" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="11" text="vent" >vent</mot>
+   <mot id="12" text="se" >se</mot>
+   <mot id="13" text="montre" Number="Sing" >montre</mot>
+   <mot id="14" text="clément" >clément</mot>
+   <mot id="15" text="pour" >pour</mot>
+   <mot id="16" text="m’" Gender="Masc" Number="Sing" >m’</mot>
+   <mot id="17" text="aider" VerbForm="Inf" >aider</mot>
+   <mot id="18" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="19" text="peu" >peu</mot>
+   <mot id="20" text="," >,</mot>
+   <mot id="21" text="je" Number="Sing" >je</mot>
+   <mot id="22" text="pourrai" Number="Sing" Tense="Pres" VerbForm="Fin" >pourrai</mot>
+   <mot id="23" text="rouler" VerbForm="Inf" >rouler</mot>
+   <mot id="24" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="25" text="long" Gender="Masc" Number="Sing" >long</mot>
+   <mot id="26" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="27" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="28" text="," >,</mot>
+   <mot id="29" text="qui" PronType="Rel" >qui</mot>
+   <mot id="30" text="," >,</mot>
+   <mot id="31" text="derrière" >derrière</mot>
+   <mot id="32" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="33" text="talus" Gender="Masc" Number="Sing" >talus</mot>
+   <mot id="34" text="," >,</mot>
+   <mot id="35" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="36" text="en" >en</mot>
+   <mot id="37" text="pente" Gender="Fem" Number="Sing" >pente</mot>
+   <mot id="38" text="." >.</mot>
+</sentence>
+<sentence id="18">
+   <mot id="1" text="Alors" >Alors</mot>
+   <mot id="2" text="," >,</mot>
+   <mot id="3" text="je" Number="Sing" >je</mot>
+   <mot id="4" text="dévalerai" Number="Sing" Tense="Fut" VerbForm="Fin" >dévalerai</mot>
+   <mot id="5" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="6" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="7" text="et" >et</mot>
+   <mot id="8" text="je" Number="Sing" >je</mot>
+   <mot id="9" text="pourrai" Number="Sing" Tense="Pres" VerbForm="Fin" >pourrai</mot>
+   <mot id="10" text="voir" VerbForm="Inf" >voir</mot>
+   <mot id="11" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="12" text="monde" Gender="Masc" Number="Sing" >monde</mot>
+   <mot id="13" text="et" >et</mot>
+   <mot id="14" text="ses" Number="Plur" >ses</mot>
+   <mot id="15" text="richesses" Gender="Fem" Number="Plur" >richesses</mot>
+   <mot id="16" text="." >.</mot>
+</sentence>
+<sentence id="19">
+   <mot id="1" text="»" >»</mot>
+   <mot id="2" text="
+
+" >
+
+</mot>
+   <mot id="3" text="En" >En</mot>
+   <mot id="4" text="effet" Gender="Masc" Number="Sing" >effet</mot>
+   <mot id="5" text="," >,</mot>
+   <mot id="6" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="7" text="bord" Gender="Masc" Number="Sing" >bord</mot>
+   <mot id="8" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="9" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="10" text="," >,</mot>
+   <mot id="11" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="12" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="13" text="a" Number="Sing" Tense="Pres" VerbForm="Fin" >a</mot>
+   <mot id="14" text="souvent" >souvent</mot>
+   <mot id="15" text="entendu" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >entendu</mot>
+   <mot id="16" text="parler" VerbForm="Inf" >parler</mot>
+   <mot id="17" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="18" text="monde" Gender="Masc" Number="Sing" >monde</mot>
+   <mot id="19" text="-" >-</mot>
+   <mot id="20" text="comment" PronType="Int" >comment</mot>
+   <mot id="21" text="dire" VerbForm="Inf" >dire</mot>
+   <mot id="22" text="," >,</mot>
+   <mot id="23" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="24" text="monde" Gender="Masc" Number="Sing" >monde</mot>
+   <mot id="25" text="derrière" >derrière</mot>
+   <mot id="26" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="27" text="talus" Gender="Masc" Number="Sing" >talus</mot>
+   <mot id="28" text="!" >!</mot>
+</sentence>
+<sentence id="20">
+   <mot id="1" text="-" >-</mot>
+   <mot id="2" text="il" Number="Sing" >il</mot>
+   <mot id="3" text="y" >y</mot>
+   <mot id="4" text="a" Number="Sing" Tense="Pres" VerbForm="Fin" >a</mot>
+   <mot id="5" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="6" text="marchands" Gender="Masc" Number="Plur" >marchands</mot>
+   <mot id="7" text="de" >de</mot>
+   <mot id="8" text="tissu" Gender="Masc" Number="Sing" >tissu</mot>
+   <mot id="9" text="et" >et</mot>
+   <mot id="10" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="11" text="marchands" Gender="Masc" Number="Plur" >marchands</mot>
+   <mot id="12" text="de" >de</mot>
+   <mot id="13" text="tapis" Gender="Masc" Number="Plur" >tapis</mot>
+   <mot id="14" text="qui" PronType="Rel" >qui</mot>
+   <mot id="15" text="discutent" Number="Plur" Tense="Pres" VerbForm="Fin" >discutent</mot>
+   <mot id="16" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="17" text="bout" Gender="Masc" Number="Sing" >bout</mot>
+   <mot id="18" text="de" >de</mot>
+   <mot id="19" text="gras" Gender="Masc" Number="Plur" >gras</mot>
+   <mot id="20" text="," >,</mot>
+   <mot id="21" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="22" text="laitières" Gender="Masc" Number="Plur" >laitières</mot>
+   <mot id="23" text="qui" PronType="Rel" >qui</mot>
+   <mot id="24" text="reviennent" Number="Plur" Tense="Pres" VerbForm="Fin" >reviennent</mot>
+   <mot id="25" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="26" text="marché" Gender="Masc" Number="Sing" >marché</mot>
+   <mot id="27" text="et" >et</mot>
+   <mot id="28" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="29" text="amoureux" Gender="Masc" Number="Plur" >amoureux</mot>
+   <mot id="30" text="qui" PronType="Rel" >qui</mot>
+   <mot id="31" text="roucoulent" Number="Plur" Tense="Pres" VerbForm="Fin" >roucoulent</mot>
+   <mot id="32" text="des" Number="Plur" PronType="Art" >des</mot>
+   <mot id="33" text="histoires" Gender="Fem" Number="Plur" >histoires</mot>
+   <mot id="34" text="d’" >d’</mot>
+   <mot id="35" text="îles" Number="Plur" >îles</mot>
+   <mot id="36" text="parfumées" Gender="Fem" Number="Plur" Tense="Past" VerbForm="Part" >parfumées</mot>
+   <mot id="37" text="..." >...</mot>
+</sentence>
+<sentence id="21">
+   <mot id="1" text="Et" >Et</mot>
+   <mot id="2" text="surtout" >surtout</mot>
+   <mot id="3" text="," >,</mot>
+   <mot id="4" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="5" text="enfants" Number="Plur" >enfants</mot>
+   <mot id="6" text="qui" PronType="Rel" >qui</mot>
+   <mot id="7" text="reviennent" Number="Plur" Tense="Pres" VerbForm="Fin" >reviennent</mot>
+   <mot id="8" text="de" >de</mot>
+   <mot id="9" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="10" text="école" Gender="Fem" Number="Sing" >école</mot>
+   <mot id="11" text=":" >:</mot>
+   <mot id="12" text="
+" >
+</mot>
+   <mot id="13" text="«" >«</mot>
+   <mot id="14" text="Toi" >Toi</mot>
+   <mot id="15" text="," >,</mot>
+   <mot id="16" text="tu" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >tu</mot>
+   <mot id="17" text="iras" Number="Sing" Tense="Pres" VerbForm="Fin" >iras</mot>
+   <mot id="18" text="voir" VerbForm="Inf" >voir</mot>
+   <mot id="19" text="Lens" Gender="Masc" Number="Sing" >Lens</mot>
+   <mot id="20" text="-" >-</mot>
+   <mot id="21" text="PSG" >PSG</mot>
+   <mot id="22" text="," >,</mot>
+   <mot id="23" text="samedi" Gender="Masc" Number="Sing" >samedi</mot>
+   <mot id="24" text="?" >?</mot>
+   <mot id="25" text="
+" >
+</mot>
+   <mot id="26" text="-" >-</mot>
+   <mot id="27" text="Non" >Non</mot>
+   <mot id="28" text="," >,</mot>
+   <mot id="29" text="moi" Number="Sing" PronType="Prs" >moi</mot>
+   <mot id="30" text="je" Number="Sing" >je</mot>
+   <mot id="31" text="suis" Number="Sing" Tense="Pres" VerbForm="Fin" >suis</mot>
+   <mot id="32" text="puni" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >puni</mot>
+   <mot id="33" text="," >,</mot>
+   <mot id="34" text="à" >à</mot>
+   <mot id="35" text="cause" Gender="Fem" Number="Sing" >cause</mot>
+   <mot id="36" text="de" >de</mot>
+   <mot id="37" text="mes" Number="Plur" >mes</mot>
+   <mot id="38" text="notes" Gender="Fem" Number="Plur" >notes</mot>
+   <mot id="39" text="en" >en</mot>
+   <mot id="40" text="maths" Gender="Fem" Number="Plur" PronType="Dem" >maths</mot>
+   <mot id="41" text="." >.</mot>
+</sentence>
+<sentence id="22">
+   <mot id="1" text="Mes" Number="Sing" >Mes</mot>
+   <mot id="2" text="parents" Gender="Masc" Number="Plur" >parents</mot>
+   <mot id="3" text="m’" Gender="Masc" Number="Plur" >m’</mot>
+   <mot id="4" text="obligent" Number="Plur" Tense="Pres" VerbForm="Fin" >obligent</mot>
+   <mot id="5" text="à" >à</mot>
+   <mot id="6" text="regarder" VerbForm="Inf" >regarder</mot>
+   <mot id="7" text="«" Gender="Fem" Number="Sing" >«</mot>
+   <mot id="8" text="Des" Number="Plur" PronType="Art" >Des</mot>
+   <mot id="9" text="chiffres" Gender="Masc" Number="Plur" >chiffres</mot>
+   <mot id="10" text="et" >et</mot>
+   <mot id="11" text="des" Number="Plur" PronType="Art" >des</mot>
+   <mot id="12" text="lettres" Gender="Fem" Number="Plur" >lettres</mot>
+   <mot id="13" text="»" >»</mot>
+   <mot id="14" text="en" >en</mot>
+   <mot id="15" text="DVD" Gender="Fem" Number="Sing" >DVD</mot>
+   <mot id="16" text="..." >...</mot>
+   <mot id="17" text="Pfff" Gender="Masc" Number="Sing" >Pfff</mot>
+   <mot id="18" text="," >,</mot>
+   <mot id="19" text="je" Number="Sing" >je</mot>
+   <mot id="20" text="ne" >ne</mot>
+   <mot id="21" text="te" Number="Sing" Tense="Pres" VerbForm="Fin" >te</mot>
+   <mot id="22" text="raconte" Gender="Fem" Number="Sing" >raconte</mot>
+   <mot id="23" text="pas" >pas</mot>
+   <mot id="24" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="25" text="week" Gender="Masc" Number="Sing" >week</mot>
+   <mot id="26" text="-" Gender="Masc" Number="Sing" >-</mot>
+   <mot id="27" text="end" Gender="Masc" Number="Sing" >end</mot>
+   <mot id="28" text="!" >!</mot>
+</sentence>
+<sentence id="23">
+   <mot id="1" text="»" >»</mot>
+   <mot id="2" text="
+" >
+</mot>
+   <mot id="3" text="De" >De</mot>
+   <mot id="4" text="fil" Gender="Masc" Number="Sing" >fil</mot>
+   <mot id="5" text="en" >en</mot>
+   <mot id="6" text="aiguille" Gender="Fem" Number="Sing" PronType="Prs" >aiguille</mot>
+   <mot id="7" text="," >,</mot>
+   <mot id="8" text="à" >à</mot>
+   <mot id="9" text="chaque" Number="Sing" >chaque</mot>
+   <mot id="10" text="fois" Gender="Fem" >fois</mot>
+   <mot id="11" text="que" >que</mot>
+   <mot id="12" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="13" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="14" text="sent" Number="Plur" Tense="Pres" VerbForm="Fin" >sent</mot>
+   <mot id="15" text="quelqu’" >quelqu’</mot>
+   <mot id="16" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="17" text="s’" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >s’</mot>
+   <mot id="18" text="approcher" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >approcher</mot>
+   <mot id="19" text="dans" >dans</mot>
+   <mot id="20" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="21" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="22" text="," >,</mot>
+   <mot id="23" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="24" text="s’" >s’</mot>
+   <mot id="25" text="efforce" >efforce</mot>
+   <mot id="26" text="de" >de</mot>
+   <mot id="27" text="tendre" Number="Sing" >tendre</mot>
+   <mot id="28" text="ce" >ce</mot>
+   <mot id="29" text="qui" PronType="Rel" >qui</mot>
+   <mot id="30" text="lui" Number="Sing" >lui</mot>
+   <mot id="31" text="sert" Number="Sing" Tense="Past" VerbForm="Fin" >sert</mot>
+   <mot id="32" text="d’" >d’</mot>
+   <mot id="33" text="oreille" Gender="Fem" Number="Sing" >oreille</mot>
+   <mot id="34" text="," >,</mot>
+   <mot id="35" text="-" >-</mot>
+   <mot id="36" text="deux" >deux</mot>
+   <mot id="37" text="minuscules" Gender="Masc" Number="Plur" >minuscules</mot>
+   <mot id="38" text="orifices" Gender="Fem" Number="Plur" >orifices</mot>
+   <mot id="39" text="de" >de</mot>
+   <mot id="40" text="chaque" Number="Sing" >chaque</mot>
+   <mot id="41" text="côté" Gender="Masc" Number="Sing" >côté</mot>
+   <mot id="42" text="." >.</mot>
+</sentence>
+<sentence id="24">
+   <mot id="1" text="Ainsi" >Ainsi</mot>
+   <mot id="2" text="," >,</mot>
+   <mot id="3" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="4" text="connaît" Number="Sing" Tense="Pres" VerbForm="Fin" >connaît</mot>
+   <mot id="5" text="vaguement" >vaguement</mot>
+   <mot id="6" text="Lens" Gender="Masc" Number="Sing" >Lens</mot>
+   <mot id="7" text="et" >et</mot>
+   <mot id="8" text="PSG" >PSG</mot>
+   <mot id="9" text="," >,</mot>
+   <mot id="10" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="11" text="tissus" Gender="Masc" Number="Plur" >tissus</mot>
+   <mot id="12" text="de" >de</mot>
+   <mot id="13" text="coton" Gender="Masc" Number="Sing" >coton</mot>
+   <mot id="14" text="ou" >ou</mot>
+   <mot id="15" text="de" >de</mot>
+   <mot id="16" text="nylon" Gender="Masc" Number="Sing" >nylon</mot>
+   <mot id="17" text="," >,</mot>
+   <mot id="18" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="19" text="prix" Gender="Masc" Number="Sing" >prix</mot>
+   <mot id="20" text="des" Number="Plur" PronType="Art" >des</mot>
+   <mot id="21" text="oeufs" Number="Plur" >oeufs</mot>
+   <mot id="22" text="et" >et</mot>
+   <mot id="23" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="24" text="lait" Gender="Masc" Number="Sing" >lait</mot>
+   <mot id="25" text="," >,</mot>
+   <mot id="26" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="27" text="maths" Number="Plur" >maths</mot>
+   <mot id="28" text="si" >si</mot>
+   <mot id="29" text="terribles" Number="Plur" >terribles</mot>
+   <mot id="30" text="et" >et</mot>
+   <mot id="31" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="32" text="DVD" Number="Plur" >DVD</mot>
+   <mot id="33" text="mais" >mais</mot>
+   <mot id="34" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="35" text="se" >se</mot>
+   <mot id="36" text="demande" Number="Sing" Tense="Pres" VerbForm="Fin" >demande</mot>
+   <mot id="37" text="à" >à</mot>
+   <mot id="38" text="quoi" PronType="Int" >quoi</mot>
+   <mot id="39" text="toutes" Gender="Fem" Number="Plur" >toutes</mot>
+   <mot id="40" text="ces" Number="Plur" PronType="Dem" >ces</mot>
+   <mot id="41" text="choses" Gender="Fem" Number="Plur" >choses</mot>
+   <mot id="42" text="peuvent" Number="Plur" Tense="Pres" VerbForm="Fin" >peuvent</mot>
+   <mot id="43" text="ressembler" VerbForm="Inf" >ressembler</mot>
+   <mot id="44" text="," >,</mot>
+   <mot id="45" text="lui" Gender="Masc" Number="Sing" PronType="Prs" >lui</mot>
+   <mot id="46" text="qui" PronType="Rel" >qui</mot>
+   <mot id="47" text="n’" Number="Sing" Tense="Past" VerbForm="Fin" >n’</mot>
+   <mot id="48" text="a" Number="Sing" Tense="Pres" VerbForm="Fin" >a</mot>
+   <mot id="49" text="jamais" >jamais</mot>
+   <mot id="50" text="bougé" VerbForm="Inf" >bougé</mot>
+   <mot id="51" text="de" >de</mot>
+   <mot id="52" text="sa" Gender="Fem" Number="Sing" >sa</mot>
+   <mot id="53" text="place" Gender="Fem" Number="Sing" >place</mot>
+   <mot id="54" text="," >,</mot>
+   <mot id="55" text="dans" >dans</mot>
+   <mot id="56" text="ce" Gender="Masc" Number="Sing" PronType="Dem" >ce</mot>
+   <mot id="57" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="58" text="où" PronType="Rel" >où</mot>
+   <mot id="59" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="60" text="commence" Number="Sing" Tense="Pres" VerbForm="Fin" >commence</mot>
+   <mot id="61" text="sérieusement" >sérieusement</mot>
+   <mot id="62" text="à" >à</mot>
+   <mot id="63" text="s’" >s’</mot>
+   <mot id="64" text="ennuyer" VerbForm="Inf" >ennuyer</mot>
+   <mot id="65" text="..." >...</mot>
+   <mot id="66" text="
+" >
+</mot>
+   <mot id="67" text="A" >A</mot>
+   <mot id="68" text="force" Gender="Fem" Number="Sing" >force</mot>
+   <mot id="69" text="d’" >d’</mot>
+   <mot id="70" text="écouter" VerbForm="Inf" >écouter</mot>
+   <mot id="71" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="72" text="gens" Gender="Masc" Number="Plur" >gens</mot>
+   <mot id="73" text="parler" VerbForm="Inf" >parler</mot>
+   <mot id="74" text="," >,</mot>
+   <mot id="75" text="lui" Number="Sing" >lui</mot>
+   <mot id="76" text="vient" Number="Sing" Tense="Pres" VerbForm="Fin" >vient</mot>
+   <mot id="77" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="78" text="envie" Gender="Fem" Number="Sing" Tense="Past" VerbForm="Part" >envie</mot>
+   <mot id="79" text="d’" >d’</mot>
+   <mot id="80" text="en" >en</mot>
+   <mot id="81" text="savoir" VerbForm="Inf" >savoir</mot>
+   <mot id="82" text="plus" >plus</mot>
+   <mot id="83" text="," >,</mot>
+   <mot id="84" text="car" >car</mot>
+   <mot id="85" text="ce" Gender="Masc" Number="Sing" PronType="Dem" >ce</mot>
+   <mot id="86" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="87" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="88" text="curieux" Gender="Masc" >curieux</mot>
+   <mot id="89" text="!" >!</mot>
+   <mot id="90" text="
+" >
+</mot>
+   <mot id="91" text="Brûlant" Gender="Masc" Number="Sing" >Brûlant</mot>
+   <mot id="92" text="de" >de</mot>
+   <mot id="93" text="désir" Gender="Masc" Number="Sing" >désir</mot>
+   <mot id="94" text="," >,</mot>
+   <mot id="95" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="96" text="demande" Number="Sing" Tense="Pres" VerbForm="Fin" >demande</mot>
+   <mot id="97" text="à" >à</mot>
+   <mot id="98" text="son" Number="Sing" >son</mot>
+   <mot id="99" text="entourage" Gender="Masc" Number="Sing" >entourage</mot>
+   <mot id="100" text="de" >de</mot>
+   <mot id="101" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="102" text="accompagner" VerbForm="Inf" >accompagner</mot>
+   <mot id="103" text="et" >et</mot>
+   <mot id="104" text="de" >de</mot>
+   <mot id="105" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="106" text="encourager" VerbForm="Inf" >encourager</mot>
+   <mot id="107" text="dans" >dans</mot>
+   <mot id="108" text="son" Number="Sing" >son</mot>
+   <mot id="109" text="effort" Gender="Masc" Number="Sing" >effort</mot>
+   <mot id="110" text=":" >:</mot>
+   <mot id="111" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="112" text="autres" Number="Plur" >autres</mot>
+   <mot id="113" text="cailloux" Gender="Masc" Number="Sing" >cailloux</mot>
+   <mot id="114" text="," >,</mot>
+   <mot id="115" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="116" text="terre" Gender="Fem" Number="Sing" >terre</mot>
+   <mot id="117" text="," >,</mot>
+   <mot id="118" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="119" text="herbes" Gender="Masc" Number="Plur" >herbes</mot>
+   <mot id="120" text="et" >et</mot>
+   <mot id="121" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="122" text="fleurs" Gender="Fem" Number="Plur" >fleurs</mot>
+   <mot id="123" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="124" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="125" text="mais" >mais</mot>
+   <mot id="126" text="aussi" >aussi</mot>
+   <mot id="127" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="128" text="vent" Gender="Masc" Number="Sing" >vent</mot>
+   <mot id="129" text="et" >et</mot>
+   <mot id="130" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="131" text="pluie" Gender="Fem" Number="Sing" >pluie</mot>
+   <mot id="132" text="," >,</mot>
+   <mot id="133" text="tous" Gender="Masc" Number="Plur" >tous</mot>
+   <mot id="134" text="lui" Number="Sing" >lui</mot>
+   <mot id="135" text="donnent" Number="Plur" Tense="Pres" VerbForm="Fin" >donnent</mot>
+   <mot id="136" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="137" text="coup" Gender="Masc" Number="Sing" >coup</mot>
+   <mot id="138" text="de" >de</mot>
+   <mot id="139" text="main" Gender="Fem" Number="Sing" >main</mot>
+   <mot id="140" text="et" >et</mot>
+   <mot id="141" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="142" text="soutiennent" Gender="Masc" Number="Sing" >soutiennent</mot>
+   <mot id="143" text="dans" >dans</mot>
+   <mot id="144" text="sa" Gender="Fem" Number="Sing" >sa</mot>
+   <mot id="145" text="quête" Gender="Fem" Number="Sing" >quête</mot>
+   <mot id="146" text="." >.</mot>
+</sentence>
+<sentence id="25">
+   <mot id="1" text="Pour" >Pour</mot>
+   <mot id="2" text="devenir" VerbForm="Inf" >devenir</mot>
+   <mot id="3" text="lisse" Number="Sing" >lisse</mot>
+   <mot id="4" text="et" >et</mot>
+   <mot id="5" text="rond" >rond</mot>
+   <mot id="6" text="," >,</mot>
+   <mot id="7" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="8" text="faut" Number="Sing" Tense="Pres" VerbForm="Fin" >faut</mot>
+   <mot id="9" text="d’" >d’</mot>
+   <mot id="10" text="abord" >abord</mot>
+   <mot id="11" text="que" >que</mot>
+   <mot id="12" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="13" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="14" text="cesse" Gender="Fem" Number="Sing" >cesse</mot>
+   <mot id="15" text="de" >de</mot>
+   <mot id="16" text="grossir" VerbForm="Inf" >grossir</mot>
+   <mot id="17" text="," >,</mot>
+   <mot id="18" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="19" text="régime" Gender="Masc" Number="Sing" >régime</mot>
+   <mot id="20" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="21" text="!" >!</mot>
+</sentence>
+<sentence id="26">
+   <mot id="1" text="Interdit" >Interdit</mot>
+   <mot id="2" text="d’" >d’</mot>
+   <mot id="3" text="absorber" VerbForm="Inf" >absorber</mot>
+   <mot id="4" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="5" text="sels" Gender="Masc" Number="Plur" >sels</mot>
+   <mot id="6" text="minéraux" Gender="Masc" Number="Plur" >minéraux</mot>
+   <mot id="7" text="et" >et</mot>
+   <mot id="8" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="9" text="ions" Gender="Fem" Number="Plur" >ions</mot>
+   <mot id="10" text="qui" PronType="Rel" >qui</mot>
+   <mot id="11" text="passent" Number="Plur" Tense="Pres" VerbForm="Fin" >passent</mot>
+   <mot id="12" text="," >,</mot>
+   <mot id="13" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="14" text="faut" Number="Sing" Tense="Pres" VerbForm="Fin" >faut</mot>
+   <mot id="15" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="16" text="contraire" Gender="Masc" Number="Sing" >contraire</mot>
+   <mot id="17" text="se" >se</mot>
+   <mot id="18" text="concentrer" VerbForm="Inf" >concentrer</mot>
+   <mot id="19" text="sur" >sur</mot>
+   <mot id="20" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="21" text="érosion" Gender="Fem" Number="Sing" >érosion</mot>
+   <mot id="22" text="." >.</mot>
+</sentence>
+<sentence id="27">
+   <mot id="1" text="Han" Gender="Masc" Number="Sing" >Han</mot>
+   <mot id="2" text="!" >!</mot>
+</sentence>
+<sentence id="28">
+   <mot id="1" text="Han" Gender="Masc" Number="Sing" >Han</mot>
+   <mot id="2" text="!" >!</mot>
+</sentence>
+<sentence id="29">
+   <mot id="1" text="C’" Gender="Masc" Number="Sing" >C’</mot>
+   <mot id="2" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="3" text="dur" Gender="Masc" Number="Sing" >dur</mot>
+   <mot id="4" text="de" >de</mot>
+   <mot id="5" text="faire" VerbForm="Inf" >faire</mot>
+   <mot id="6" text="partir" VerbForm="Inf" >partir</mot>
+   <mot id="7" text="ses" Number="Plur" >ses</mot>
+   <mot id="8" text="peaux" Gender="Masc" Number="Plur" >peaux</mot>
+   <mot id="9" text="mortes" Gender="Fem" Number="Plur" >mortes</mot>
+   <mot id="10" text="quand" >quand</mot>
+   <mot id="11" text="on" Number="Sing" >on</mot>
+   <mot id="12" text="ne" >ne</mot>
+   <mot id="13" text="peut" Number="Sing" Tense="Pres" VerbForm="Fin" >peut</mot>
+   <mot id="14" text="pas" >pas</mot>
+   <mot id="15" text="bouger" VerbForm="Inf" >bouger</mot>
+   <mot id="16" text="..." >...</mot>
+   <mot id="17" text="
+" >
+</mot>
+   <mot id="18" text="La" Gender="Fem" Number="Sing" PronType="Art" >La</mot>
+   <mot id="19" text="pluie" Gender="Fem" Number="Sing" >pluie</mot>
+   <mot id="20" text="et" >et</mot>
+   <mot id="21" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="22" text="vent" >vent</mot>
+   <mot id="23" text="aident" Number="Plur" Tense="Pres" VerbForm="Fin" >aident</mot>
+   <mot id="24" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="25" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="26" text="à" >à</mot>
+   <mot id="27" text="perdre" VerbForm="Inf" >perdre</mot>
+   <mot id="28" text="ses" Number="Plur" >ses</mot>
+   <mot id="29" text="poussières" Gender="Fem" Number="Plur" >poussières</mot>
+   <mot id="30" text="extérieures" Number="Plur" >extérieures</mot>
+   <mot id="31" text="," >,</mot>
+   <mot id="32" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="33" text="moineaux" Gender="Masc" Number="Plur" >moineaux</mot>
+   <mot id="34" text="piquent" Number="Plur" Tense="Pres" VerbForm="Fin" >piquent</mot>
+   <mot id="35" text="son" Number="Sing" >son</mot>
+   <mot id="36" text="dos" Gender="Masc" Number="Sing" >dos</mot>
+   <mot id="37" text="pour" >pour</mot>
+   <mot id="38" text="le" Gender="Masc" Number="Sing" >le</mot>
+   <mot id="39" text="rendre" VerbForm="Inf" >rendre</mot>
+   <mot id="40" text="bien" >bien</mot>
+   <mot id="41" text="rond" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >rond</mot>
+   <mot id="42" text="et" >et</mot>
+   <mot id="43" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="44" text="fleurs" Gender="Fem" Number="Plur" >fleurs</mot>
+   <mot id="45" text="qui" PronType="Rel" >qui</mot>
+   <mot id="46" text="poussent" >poussent</mot>
+   <mot id="47" text="autour" >autour</mot>
+   <mot id="48" text="de" >de</mot>
+   <mot id="49" text="lui" Gender="Masc" Number="Sing" PronType="Prs" >lui</mot>
+   <mot id="50" text="remuent" Number="Plur" Tense="Pres" VerbForm="Fin" >remuent</mot>
+   <mot id="51" text="leurs" Number="Plur" >leurs</mot>
+   <mot id="52" text="racines" Gender="Fem" Number="Plur" >racines</mot>
+   <mot id="53" text="pour" >pour</mot>
+   <mot id="54" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="55" text="déloger" Gender="Masc" Number="Sing" >déloger</mot>
+   <mot id="56" text="...." >....</mot>
+</sentence>
+<sentence id="30">
+   <mot id="1" text="Mais" >Mais</mot>
+   <mot id="2" text="rien" Number="Sing" >rien</mot>
+   <mot id="3" text="à" >à</mot>
+   <mot id="4" text="faire" VerbForm="Inf" >faire</mot>
+   <mot id="5" text="," >,</mot>
+   <mot id="6" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="7" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="8" text="trop" >trop</mot>
+   <mot id="9" text="lourd" Gender="Masc" Number="Sing" >lourd</mot>
+   <mot id="10" text="," >,</mot>
+   <mot id="11" text="et" >et</mot>
+   <mot id="12" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="13" text="fleurs" Gender="Fem" Number="Plur" >fleurs</mot>
+   <mot id="14" text="," >,</mot>
+   <mot id="15" text="si" >si</mot>
+   <mot id="16" text="gentilles" Number="Plur" >gentilles</mot>
+   <mot id="17" text="soient" Number="Plur" Tense="Pres" VerbForm="Fin" >soient</mot>
+</sentence>
+<sentence id="31">
+   <mot id="1" text="-" >-</mot>
+   <mot id="2" text="elles" Gender="Fem" Number="Plur" PronType="Prs" >elles</mot>
+   <mot id="3" text="," >,</mot>
+   <mot id="4" text="sont" Number="Plur" Tense="Pres" VerbForm="Fin" >sont</mot>
+   <mot id="5" text="incapables" Gender="Masc" Number="Plur" >incapables</mot>
+   <mot id="6" text="de" >de</mot>
+   <mot id="7" text="donner" VerbForm="Inf" >donner</mot>
+   <mot id="8" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="9" text="coup" Gender="Masc" Number="Sing" >coup</mot>
+   <mot id="10" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="11" text="départ" Gender="Masc" Number="Sing" >départ</mot>
+   <mot id="12" text="." >.</mot>
+   <mot id="13" text="
+
+" >
+
+</mot>
+   <mot id="14" text="«" >«</mot>
+</sentence>
+<sentence id="32">
+   <mot id="1" text="C’" Gender="Masc" Number="Sing" >C’</mot>
+</sentence>
+<sentence id="33">
+   <mot id="1" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="2" text="trop" >trop</mot>
+   <mot id="3" text="triste" Number="Sing" >triste</mot>
+</sentence>
+<sentence id="34">
+   <mot id="1" text="," >,</mot>
+   <mot id="2" text="se" >se</mot>
+   <mot id="3" text="dit" Number="Sing" Tense="Pres" VerbForm="Fin" >dit</mot>
+   <mot id="4" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="5" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="6" text="," >,</mot>
+   <mot id="7" text="tant" >tant</mot>
+   <mot id="8" text="d’" >d’</mot>
+   <mot id="9" text="efforts" Gender="Masc" Number="Plur" >efforts</mot>
+   <mot id="10" text="pour" >pour</mot>
+   <mot id="11" text="rien" Number="Sing" >rien</mot>
+   <mot id="12" text="!" >!</mot>
+   <mot id="13" text="..." >...</mot>
+</sentence>
+<sentence id="35">
+   <mot id="1" text="»" >»</mot>
+   <mot id="2" text="
+" >
+</mot>
+   <mot id="3" text="Et" >Et</mot>
+   <mot id="4" text="là" >là</mot>
+   <mot id="5" text="," >,</mot>
+   <mot id="6" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="7" text="bord" Gender="Masc" Number="Sing" >bord</mot>
+   <mot id="8" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="9" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="10" text="," >,</mot>
+   <mot id="11" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="12" text="se" >se</mot>
+   <mot id="13" text="met" Number="Sing" Tense="Pres" VerbForm="Fin" >met</mot>
+   <mot id="14" text="à" >à</mot>
+   <mot id="15" text="pleurer" VerbForm="Inf" >pleurer</mot>
+   <mot id="16" text="..." >...</mot>
+   <mot id="17" text="C’" Gender="Masc" Tense="Past" VerbForm="Part" >C’</mot>
+   <mot id="18" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="19" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="20" text="première" Gender="Fem" Number="Sing" >première</mot>
+   <mot id="21" text="fois" Gender="Fem" >fois</mot>
+   <mot id="22" text="qu’" >qu’</mot>
+   <mot id="23" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="24" text="pleure" Number="Sing" Tense="Pres" VerbForm="Fin" >pleure</mot>
+   <mot id="25" text="..." >...</mot>
+   <mot id="26" text="C’" Gender="Masc" Tense="Past" VerbForm="Part" >C’</mot>
+   <mot id="27" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="28" text="très" >très</mot>
+   <mot id="29" text="très" >très</mot>
+   <mot id="30" text="rare" Number="Sing" >rare</mot>
+   <mot id="31" text="chez" >chez</mot>
+   <mot id="32" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="33" text="cailloux" Gender="Masc" Number="Sing" >cailloux</mot>
+   <mot id="34" text="mais" >mais</mot>
+   <mot id="35" text="parfois" >parfois</mot>
+   <mot id="36" text="cela" Number="Sing" PronType="Dem" >cela</mot>
+   <mot id="37" text="arrive" Number="Sing" Tense="Pres" VerbForm="Fin" >arrive</mot>
+   <mot id="38" text="," >,</mot>
+   <mot id="39" text="c’" Gender="Fem" Number="Sing" >c’</mot>
+   <mot id="40" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="41" text="qu’" >qu’</mot>
+   <mot id="42" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="43" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="44" text="trop" >trop</mot>
+   <mot id="45" text="malheureux" Gender="Masc" >malheureux</mot>
+   <mot id="46" text="," >,</mot>
+   <mot id="47" text="malheureux" Gender="Masc" >malheureux</mot>
+   <mot id="48" text="comme" >comme</mot>
+   <mot id="49" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="50" text="pierres" Gender="Fem" Number="Plur" >pierres</mot>
+   <mot id="51" text="..." >...</mot>
+</sentence>
+<sentence id="36">
+   <mot id="1" text="Et" >Et</mot>
+   <mot id="2" text="parfois" >parfois</mot>
+   <mot id="3" text="," >,</mot>
+   <mot id="4" text="vous" Number="Plur" >vous</mot>
+   <mot id="5" text="savez" Number="Plur" Tense="Pres" VerbForm="Fin" >savez</mot>
+   <mot id="6" text="," >,</mot>
+   <mot id="7" text="quand" >quand</mot>
+   <mot id="8" text="on" Number="Sing" >on</mot>
+   <mot id="9" text="ne" >ne</mot>
+   <mot id="10" text="voit" Number="Sing" Tense="Pres" VerbForm="Fin" >voit</mot>
+   <mot id="11" text="pas" >pas</mot>
+   <mot id="12" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="13" text="bout" Gender="Masc" Number="Sing" >bout</mot>
+   <mot id="14" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="15" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="16" text="et" >et</mot>
+   <mot id="17" text="qu’" PronType="Rel" >qu’</mot>
+   <mot id="18" text="on" Number="Sing" >on</mot>
+   <mot id="19" text="ne" >ne</mot>
+   <mot id="20" text="sait" Number="Sing" Tense="Pres" VerbForm="Fin" >sait</mot>
+   <mot id="21" text="plus" >plus</mot>
+   <mot id="22" text="comment" PronType="Int" >comment</mot>
+   <mot id="23" text="faire" VerbForm="Inf" >faire</mot>
+   <mot id="24" text="," >,</mot>
+   <mot id="25" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="26" text="destin" Gender="Masc" Number="Sing" >destin</mot>
+   <mot id="27" text="donne" Number="Sing" Tense="Pres" VerbForm="Fin" >donne</mot>
+   <mot id="28" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="29" text="petit" Gender="Masc" Number="Sing" >petit</mot>
+   <mot id="30" text="coup" Gender="Masc" Number="Sing" >coup</mot>
+   <mot id="31" text="de" >de</mot>
+   <mot id="32" text="pouce" Gender="Masc" Number="Sing" >pouce</mot>
+   <mot id="33" text="...." >....</mot>
+</sentence>
+<sentence id="37">
+   <mot id="1" text="Eh" >Eh</mot>
+   <mot id="2" text="bien" >bien</mot>
+   <mot id="3" text="," >,</mot>
+</sentence>
+<sentence id="38">
+   <mot id="1" text="pour" >pour</mot>
+   <mot id="2" text="notre" Number="Sing" >notre</mot>
+   <mot id="3" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="4" text="," >,</mot>
+   <mot id="5" text="c’" Gender="Fem" Number="Sing" >c’</mot>
+   <mot id="6" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="7" text="plutôt" >plutôt</mot>
+   <mot id="8" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="9" text="petit" Gender="Masc" Number="Sing" >petit</mot>
+   <mot id="10" text="coup" Gender="Masc" Number="Sing" >coup</mot>
+   <mot id="11" text="de" >de</mot>
+   <mot id="12" text="pied" Number="Sing" >pied</mot>
+   <mot id="13" text="qui" PronType="Rel" >qui</mot>
+   <mot id="14" text="fait" Number="Sing" Tense="Pres" VerbForm="Fin" >fait</mot>
+   <mot id="15" text="basculer" VerbForm="Inf" >basculer</mot>
+   <mot id="16" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="17" text="situation" Gender="Fem" Number="Sing" >situation</mot>
+   <mot id="18" text="..." >...</mot>
+</sentence>
+<sentence id="39">
+   <mot id="1" text="L’" Gender="Masc" Number="Sing" PronType="Art" >L’</mot>
+   <mot id="2" text="enfant" Number="Sing" >enfant</mot>
+   <mot id="3" text="puni" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >puni</mot>
+   <mot id="4" text="à" >à</mot>
+   <mot id="5" text="cause" Gender="Fem" Number="Sing" >cause</mot>
+   <mot id="6" text="de" >de</mot>
+   <mot id="7" text="ses" Number="Plur" >ses</mot>
+   <mot id="8" text="maths" Number="Plur" >maths</mot>
+   <mot id="9" text="a" Number="Sing" Tense="Pres" VerbForm="Fin" >a</mot>
+   <mot id="10" text="réussi" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >réussi</mot>
+   <mot id="11" text="à" >à</mot>
+   <mot id="12" text="s’" >s’</mot>
+   <mot id="13" text="échapper" VerbForm="Inf" >échapper</mot>
+   <mot id="14" text="de" >de</mot>
+   <mot id="15" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="16" text="télévision" Gender="Fem" Number="Sing" >télévision</mot>
+   <mot id="17" text="," >,</mot>
+   <mot id="18" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="19" text="grogne" Number="Sing" >grogne</mot>
+   <mot id="20" text="et" >et</mot>
+   <mot id="21" text="boude" Number="Sing" Tense="Pres" VerbForm="Fin" >boude</mot>
+   <mot id="22" text="sur" >sur</mot>
+   <mot id="23" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="24" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="25" text="," >,</mot>
+   <mot id="26" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="27" text="regrette" Number="Sing" Tense="Past" VerbForm="Fin" >regrette</mot>
+   <mot id="28" text="tellement" Gender="Masc" Number="Sing" >tellement</mot>
+   <mot id="29" text="de" >de</mot>
+   <mot id="30" text="ne" >ne</mot>
+   <mot id="31" text="pas" >pas</mot>
+   <mot id="32" text="être" VerbForm="Inf" >être</mot>
+   <mot id="33" text="allé" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >allé</mot>
+   <mot id="34" text="voir" VerbForm="Inf" >voir</mot>
+   <mot id="35" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="36" text="foot" Gender="Masc" Number="Sing" >foot</mot>
+   <mot id="37" text="avec" >avec</mot>
+   <mot id="38" text="son" Number="Sing" >son</mot>
+   <mot id="39" text="père" Gender="Masc" Number="Sing" >père</mot>
+   <mot id="40" text="et" >et</mot>
+   <mot id="41" text="son" Number="Sing" >son</mot>
+   <mot id="42" text="frère" Gender="Masc" Number="Sing" >frère</mot>
+   <mot id="43" text="!" >!</mot>
+   <mot id="44" text="..." >...</mot>
+</sentence>
+<sentence id="40">
+   <mot id="1" text="Du" Gender="Masc" Number="Sing" PronType="Art" >Du</mot>
+   <mot id="2" text="coup" Gender="Masc" Number="Sing" >coup</mot>
+   <mot id="3" text="," >,</mot>
+   <mot id="4" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="5" text="shoote" Number="Sing" Tense="Pres" VerbForm="Fin" >shoote</mot>
+   <mot id="6" text="dans" >dans</mot>
+   <mot id="7" text="tout" Gender="Masc" Number="Sing" >tout</mot>
+   <mot id="8" text="ce" >ce</mot>
+   <mot id="9" text="qu’" PronType="Rel" >qu’</mot>
+   <mot id="10" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="11" text="trouve" Number="Sing" Tense="Pres" VerbForm="Fin" >trouve</mot>
+   <mot id="12" text="," >,</mot>
+   <mot id="13" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="14" text="shoote" Number="Sing" Tense="Pres" VerbForm="Fin" >shoote</mot>
+   <mot id="15" text="à" >à</mot>
+   <mot id="16" text="droite" Gender="Fem" Number="Sing" >droite</mot>
+   <mot id="17" text="," >,</mot>
+   <mot id="18" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="19" text="shoote" Number="Sing" Tense="Pres" VerbForm="Fin" >shoote</mot>
+   <mot id="20" text="à" >à</mot>
+   <mot id="21" text="gauche" Number="Sing" >gauche</mot>
+   <mot id="22" text="..." >...</mot>
+   <mot id="23" text="OUIIIIII" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >OUIIIIII</mot>
+   <mot id="24" text="!" >!</mot>
+   <mot id="25" text="!" >!</mot>
+   <mot id="26" text="!" >!</mot>
+</sentence>
+<sentence id="41">
+   <mot id="1" text="...." >....</mot>
+   <mot id="2" text="BUUUUT" Gender="Masc" Number="Sing" >BUUUUT</mot>
+   <mot id="3" text="!" >!</mot>
+   <mot id="4" text="!" >!</mot>
+   <mot id="5" text="!" >!</mot>
+   <mot id="6" text="..." >...</mot>
+</sentence>
+<sentence id="42">
+   <mot id="1" text="Dans" >Dans</mot>
+   <mot id="2" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="3" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="4" text="!" >!</mot>
+</sentence>
+<sentence id="43">
+   <mot id="1" text="..." >...</mot>
+   <mot id="2" text="DANS" >DANS</mot>
+   <mot id="3" text="LE" Gender="Masc" Number="Sing" PronType="Art" >LE</mot>
+   <mot id="4" text="CAILLOU" Gender="Masc" Number="Sing" >CAILLOU</mot>
+   <mot id="5" text="!" >!</mot>
+   <mot id="6" text="!" >!</mot>
+   <mot id="7" text="!" >!</mot>
+</sentence>
+<sentence id="44">
+   <mot id="1" text="..." >...</mot>
+</sentence>
+<sentence id="45">
+   <mot id="1" text="Le" Gender="Masc" Number="Sing" PronType="Art" >Le</mot>
+   <mot id="2" text="voilà" Gender="Masc" Number="Sing" >voilà</mot>
+   <mot id="3" text="qui" PronType="Rel" >qui</mot>
+   <mot id="4" text="s’" >s’</mot>
+   <mot id="5" text="envole" Gender="Masc" Number="Sing" >envole</mot>
+   <mot id="6" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="7" text="dessus" Gender="Masc" Number="Sing" >dessus</mot>
+   <mot id="8" text="des" Number="Plur" PronType="Art" >des</mot>
+   <mot id="9" text="fleurs" Gender="Fem" Number="Plur" >fleurs</mot>
+   <mot id="10" text="," >,</mot>
+   <mot id="11" text="quel" Gender="Masc" Number="Sing" >quel</mot>
+   <mot id="12" text="vole" Gender="Masc" Number="Sing" >vole</mot>
+   <mot id="13" text="-" Gender="Masc" Number="Sing" >-</mot>
+   <mot id="14" text="plané" >plané</mot>
+   <mot id="15" text="," >,</mot>
+   <mot id="16" text="mes" Number="Plur" >mes</mot>
+   <mot id="17" text="amis" Gender="Masc" Number="Plur" >amis</mot>
+   <mot id="18" text="!" >!</mot>
+</sentence>
+<sentence id="46">
+   <mot id="1" text="..." >...</mot>
+   <mot id="2" text="Il" Gender="Masc" Number="Sing" >Il</mot>
+   <mot id="3" text="atterrit" Number="Sing" Tense="Pres" VerbForm="Fin" >atterrit</mot>
+   <mot id="4" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="5" text="delà" >delà</mot>
+   <mot id="6" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="7" text="talus" Gender="Masc" Number="Sing" >talus</mot>
+   <mot id="8" text="et" >et</mot>
+   <mot id="9" text="roule" Gender="Fem" Number="Sing" >roule</mot>
+   <mot id="10" text="," >,</mot>
+   <mot id="11" text="roule" Gender="Fem" Number="Sing" >roule</mot>
+   <mot id="12" text="à" >à</mot>
+   <mot id="13" text="travers" Gender="Masc" >travers</mot>
+   <mot id="14" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="15" text="petit" Gender="Masc" Number="Sing" >petit</mot>
+   <mot id="16" text="sentier" Gender="Masc" Number="Sing" >sentier</mot>
+   <mot id="17" text="raviné" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >raviné</mot>
+   <mot id="18" text="par" >par</mot>
+   <mot id="19" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="20" text="écoulement" >écoulement</mot>
+   <mot id="21" text="de" >de</mot>
+   <mot id="22" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="23" text="pluie" Gender="Fem" Number="Sing" >pluie</mot>
+   <mot id="24" text="." >.</mot>
+   <mot id="25" text="
+" >
+</mot>
+</sentence>
+<sentence id="47">
+   <mot id="1" text="Ca" Number="Sing" >Ca</mot>
+   <mot id="2" text="y" >y</mot>
+   <mot id="3" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="4" text="," >,</mot>
+   <mot id="5" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="6" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="7" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="8" text="parti" Gender="Masc" Number="Sing" Tense="Past" VerbForm="Part" >parti</mot>
+   <mot id="9" text="!" >!</mot>
+   <mot id="10" text="
+" >
+</mot>
+   <mot id="11" text="«" >«</mot>
+</sentence>
+<sentence id="48">
+   <mot id="1" text="Au" Gender="Masc" Number="Sing" PronType="Art" >Au</mot>
+   <mot id="2" text="revoir" VerbForm="Inf" >revoir</mot>
+   <mot id="3" text="mes" Number="Plur" >mes</mot>
+   <mot id="4" text="amis" Gender="Masc" Number="Plur" >amis</mot>
+   <mot id="5" text="." >.</mot>
+</sentence>
+<sentence id="49">
+   <mot id="1" text="Merci" Gender="Masc" Number="Sing" >Merci</mot>
+   <mot id="2" text="," >,</mot>
+   <mot id="3" text="merci" Gender="Masc" Number="Sing" >merci</mot>
+   <mot id="4" text="!" >!</mot>
+</sentence>
+<sentence id="50">
+   <mot id="1" text="Jamais" >Jamais</mot>
+   <mot id="2" text="je" Number="Sing" >je</mot>
+   <mot id="3" text="ne" >ne</mot>
+   <mot id="4" text="vous" Number="Plur" >vous</mot>
+   <mot id="5" text="oublierai" Number="Plur" Tense="Imp" VerbForm="Fin" >oublierai</mot>
+   <mot id="6" text="..." >...</mot>
+</sentence>
+<sentence id="51">
+   <mot id="1" text="»" >»</mot>
+   <mot id="2" text="se" >se</mot>
+   <mot id="3" text="dépêche" Number="Sing" Tense="Pres" VerbForm="Fin" >dépêche</mot>
+   <mot id="4" text="-t" Gender="Masc" Number="Sing" >-t</mot>
+   <mot id="5" text="-il" Gender="Masc" Number="Sing" >-il</mot>
+   <mot id="6" text="de" >de</mot>
+   <mot id="7" text="crier" Gender="Masc" Number="Sing" >crier</mot>
+   <mot id="8" text="parce" >parce</mot>
+   <mot id="9" text="que" >que</mot>
+   <mot id="10" text="déjà" >déjà</mot>
+   <mot id="11" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="12" text="ne" >ne</mot>
+   <mot id="13" text="peut" Number="Sing" Tense="Pres" VerbForm="Fin" >peut</mot>
+   <mot id="14" text="plus" >plus</mot>
+   <mot id="15" text="s’" >s’</mot>
+   <mot id="16" text="arrêter" VerbForm="Inf" >arrêter</mot>
+   <mot id="17" text="sur" >sur</mot>
+   <mot id="18" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="19" text="route" Gender="Fem" Number="Sing" >route</mot>
+   <mot id="20" text="en" >en</mot>
+   <mot id="21" text="pente" Gender="Fem" Number="Sing" >pente</mot>
+   <mot id="22" text="," >,</mot>
+   <mot id="23" text="pas" >pas</mot>
+   <mot id="24" text="de" Number="Sing" PronType="Art" >de</mot>
+   <mot id="25" text="frein" Gender="Fem" Number="Sing" >frein</mot>
+   <mot id="26" text="," >,</mot>
+   <mot id="27" text="pas" >pas</mot>
+   <mot id="28" text="de" >de</mot>
+   <mot id="29" text="limite" Gender="Fem" Number="Sing" >limite</mot>
+   <mot id="30" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="31" text="voyage" Gender="Masc" Number="Sing" >voyage</mot>
+   <mot id="32" text="!" >!</mot>
+   <mot id="33" text="
+" >
+</mot>
+</sentence>
+<sentence id="52">
+   <mot id="1" text="Il" Gender="Masc" Number="Sing" >Il</mot>
+   <mot id="2" text="se" >se</mot>
+   <mot id="3" text="met" Number="Sing" Tense="Pres" VerbForm="Fin" >met</mot>
+   <mot id="4" text="à" >à</mot>
+   <mot id="5" text="dévaler" VerbForm="Inf" >dévaler</mot>
+   <mot id="6" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="7" text="versant" Gender="Masc" Number="Sing" >versant</mot>
+   <mot id="8" text="à" >à</mot>
+   <mot id="9" text="une" Gender="Fem" Number="Sing" PronType="Art" >une</mot>
+   <mot id="10" text="allure" Gender="Fem" Number="Sing" >allure</mot>
+   <mot id="11" text="incroyable" Number="Sing" >incroyable</mot>
+   <mot id="12" text="," >,</mot>
+   <mot id="13" text="vertigineuse" Gender="Fem" Number="Sing" >vertigineuse</mot>
+   <mot id="14" text="." >.</mot>
+</sentence>
+<sentence id="53">
+   <mot id="1" text="Le" Gender="Masc" Number="Sing" PronType="Art" >Le</mot>
+   <mot id="2" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="3" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="4" text="ivre" Number="Sing" >ivre</mot>
+   <mot id="5" text="de" >de</mot>
+   <mot id="6" text="joie" >joie</mot>
+   <mot id="7" text="," >,</mot>
+   <mot id="8" text="dans" >dans</mot>
+   <mot id="9" text="ce" Gender="Masc" Number="Sing" PronType="Dem" >ce</mot>
+   <mot id="10" text="tourbillon" Gender="Masc" Number="Sing" >tourbillon</mot>
+   <mot id="11" text="," >,</mot>
+   <mot id="12" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="13" text="ne" >ne</mot>
+   <mot id="14" text="manque" Number="Sing" Tense="Pres" VerbForm="Fin" >manque</mot>
+   <mot id="15" text="pas" >pas</mot>
+   <mot id="16" text="une" Gender="Fem" Number="Sing" PronType="Art" >une</mot>
+   <mot id="17" text="image" Gender="Fem" Number="Sing" >image</mot>
+   <mot id="18" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="19" text="nouveau" Gender="Masc" Number="Sing" >nouveau</mot>
+   <mot id="20" text="paysage" Gender="Masc" Number="Sing" >paysage</mot>
+   <mot id="21" text="qui" PronType="Rel" >qui</mot>
+   <mot id="22" text="défile" Number="Sing" Tense="Pres" VerbForm="Fin" >défile</mot>
+   <mot id="23" text="à" >à</mot>
+   <mot id="24" text="ses" Number="Plur" >ses</mot>
+   <mot id="25" text="yeux" Gender="Masc" Number="Plur" >yeux</mot>
+   <mot id="26" text="." >.</mot>
+</sentence>
+<sentence id="54">
+   <mot id="1" text="La" Gender="Fem" Number="Sing" PronType="Art" >La</mot>
+   <mot id="2" text="rivière" Gender="Fem" Number="Sing" >rivière</mot>
+   <mot id="3" text="," >,</mot>
+   <mot id="4" text="oui" Gender="Masc" Number="Sing" >oui</mot>
+   <mot id="5" text="," >,</mot>
+   <mot id="6" text="il" Number="Sing" >il</mot>
+   <mot id="7" text="y" >y</mot>
+   <mot id="8" text="a" Number="Sing" Tense="Pres" VerbForm="Fin" >a</mot>
+   <mot id="9" text="une" Gender="Fem" Number="Sing" PronType="Art" >une</mot>
+   <mot id="10" text="rivière" Gender="Fem" Number="Sing" >rivière</mot>
+   <mot id="11" text="de" >de</mot>
+   <mot id="12" text="l’" Gender="Masc" Number="Sing" >l’</mot>
+   <mot id="13" text="autre" Number="Sing" >autre</mot>
+   <mot id="14" text="côté" Gender="Masc" Number="Sing" >côté</mot>
+   <mot id="15" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="16" text="talus" Gender="Masc" Number="Sing" >talus</mot>
+   <mot id="17" text="et" >et</mot>
+   <mot id="18" text="," >,</mot>
+   <mot id="19" text="quelle" Gender="Fem" Number="Sing" PronType="Int" >quelle</mot>
+   <mot id="20" text="bête" Gender="Fem" Number="Sing" >bête</mot>
+   <mot id="21" text="étrange" Gender="Fem" Number="Sing" >étrange</mot>
+   <mot id="22" text="," >,</mot>
+   <mot id="23" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="24" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="25" text="n’" Number="Sing" >n’</mot>
+   <mot id="26" text="en" >en</mot>
+   <mot id="27" text="a" Number="Sing" Tense="Pres" VerbForm="Fin" >a</mot>
+   <mot id="28" text="jamais" >jamais</mot>
+   <mot id="29" text="vues" Number="Plur" >vues</mot>
+   <mot id="30" text="de" >de</mot>
+   <mot id="31" text="pareilles" Gender="Fem" Number="Plur" >pareilles</mot>
+   <mot id="32" text=":" >:</mot>
+   <mot id="33" text="une" Gender="Fem" Number="Sing" PronType="Art" >une</mot>
+   <mot id="34" text="voiture" Gender="Fem" Number="Sing" >voiture</mot>
+   <mot id="35" text="!" >!</mot>
+   <mot id="36" text="..." >...</mot>
+</sentence>
+<sentence id="55">
+   <mot id="1" text="Le" Gender="Masc" Number="Sing" PronType="Art" >Le</mot>
+   <mot id="2" text="plus" >plus</mot>
+   <mot id="3" text="étrange" Gender="Fem" Number="Sing" >étrange</mot>
+   <mot id="4" text="," >,</mot>
+   <mot id="5" text="c’" Gender="Fem" Number="Sing" >c’</mot>
+   <mot id="6" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="7" text="qu’" >qu’</mot>
+   <mot id="8" text="elle" Gender="Fem" Number="Sing" >elle</mot>
+   <mot id="9" text="roule" Gender="Fem" Number="Sing" >roule</mot>
+   <mot id="10" text="comme" >comme</mot>
+   <mot id="11" text="lui" Gender="Masc" Number="Sing" PronType="Prs" >lui</mot>
+   <mot id="12" text="!" >!</mot>
+   <mot id="13" text="..." >...</mot>
+</sentence>
+<sentence id="56">
+   <mot id="1" text="Il" Gender="Masc" Number="Sing" >Il</mot>
+   <mot id="2" text="se" >se</mot>
+   <mot id="3" text="cogne" Number="Sing" Tense="Pres" VerbForm="Fin" >cogne</mot>
+   <mot id="4" text="la" Gender="Fem" Number="Sing" PronType="Art" >la</mot>
+   <mot id="5" text="tête" Gender="Fem" Number="Sing" >tête</mot>
+   <mot id="6" text="contre" >contre</mot>
+   <mot id="7" text="ses" Number="Plur" >ses</mot>
+   <mot id="8" text="collègues" Number="Plur" >collègues</mot>
+   <mot id="9" text="," >,</mot>
+   <mot id="10" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="11" text="autres" Number="Plur" >autres</mot>
+   <mot id="12" text="cailloux" Gender="Masc" Number="Sing" >cailloux</mot>
+   <mot id="13" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="14" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="15" text="
+" >
+</mot>
+   <mot id="16" text="«" >«</mot>
+   <mot id="17" text="Pardon" >Pardon</mot>
+   <mot id="18" text="," >,</mot>
+   <mot id="19" text="excusez" Number="Plur" Tense="Pres" VerbForm="Fin" >excusez</mot>
+   <mot id="20" text="-moi" Number="Sing" >-moi</mot>
+   <mot id="21" text="..." >...</mot>
+</sentence>
+<sentence id="57">
+   <mot id="1" text="Je" Number="Sing" >Je</mot>
+   <mot id="2" text="ne" >ne</mot>
+   <mot id="3" text="peux" Number="Sing" Tense="Pres" VerbForm="Fin" >peux</mot>
+   <mot id="4" text="pas" >pas</mot>
+   <mot id="5" text="m’" Gender="Masc" Number="Sing" >m’</mot>
+   <mot id="6" text="arrêter" VerbForm="Inf" >arrêter</mot>
+   <mot id="7" text="!" >!</mot>
+</sentence>
+<sentence id="58">
+   <mot id="1" text="»" >»</mot>
+</sentence>
+<sentence id="59">
+   <mot id="1" text="." >.</mot>
+   <mot id="2" text="
+
+" >
+
+</mot>
+   <mot id="3" text="Toutes" Gender="Fem" Number="Plur" >Toutes</mot>
+   <mot id="4" text="ces" Number="Plur" PronType="Dem" >ces</mot>
+   <mot id="5" text="collisions" Gender="Fem" Number="Plur" >collisions</mot>
+   <mot id="6" text="sur" >sur</mot>
+   <mot id="7" text="les" Number="Plur" PronType="Art" >les</mot>
+   <mot id="8" text="obstacles" Gender="Masc" Number="Plur" >obstacles</mot>
+   <mot id="9" text="du" Gender="Masc" Number="Sing" PronType="Art" >du</mot>
+   <mot id="10" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="11" text="," >,</mot>
+   <mot id="12" text="résonnent" Number="Plur" Tense="Pres" VerbForm="Fin" >résonnent</mot>
+   <mot id="13" text="comme" >comme</mot>
+   <mot id="14" text="des" Number="Plur" PronType="Art" >des</mot>
+   <mot id="15" text="percussions" Gender="Fem" Number="Plur" >percussions</mot>
+   <mot id="16" text="et" >et</mot>
+   <mot id="17" text="produisent" Number="Plur" Tense="Pres" VerbForm="Fin" >produisent</mot>
+   <mot id="18" text="une" Gender="Fem" Number="Sing" PronType="Art" >une</mot>
+   <mot id="19" text="jolie" Gender="Fem" Number="Sing" >jolie</mot>
+   <mot id="20" text="musique" Number="Sing" >musique</mot>
+   <mot id="21" text="." >.</mot>
+</sentence>
+<sentence id="60">
+   <mot id="1" text="Le" Gender="Masc" Number="Sing" PronType="Art" >Le</mot>
+   <mot id="2" text="caillou" Gender="Masc" Number="Sing" >caillou</mot>
+   <mot id="3" text="est" Number="Sing" Tense="Pres" VerbForm="Fin" >est</mot>
+   <mot id="4" text="si" >si</mot>
+   <mot id="5" text="heureux" Gender="Masc" Number="Plur" PronType="Dem" >heureux</mot>
+   <mot id="6" text="de" >de</mot>
+   <mot id="7" text="s’" >s’</mot>
+   <mot id="8" text="ouvrir" VerbForm="Inf" >ouvrir</mot>
+   <mot id="9" text="au" Gender="Masc" Number="Sing" PronType="Art" >au</mot>
+   <mot id="10" text="monde" Gender="Masc" Number="Sing" >monde</mot>
+   <mot id="11" text="qu’" PronType="Rel" >qu’</mot>
+   <mot id="12" text="il" Gender="Masc" Number="Sing" >il</mot>
+   <mot id="13" text="accompagne" Number="Sing" Tense="Pres" VerbForm="Fin" >accompagne</mot>
+   <mot id="14" text="cette" Gender="Fem" Number="Sing" PronType="Dem" >cette</mot>
+   <mot id="15" text="musique" Gender="Fem" Number="Sing" >musique</mot>
+   <mot id="16" text="de" >de</mot>
+   <mot id="17" text="son" Number="Sing" >son</mot>
+   <mot id="18" text="chant" Gender="Masc" Number="Sing" >chant</mot>
+   <mot id="19" text="et" >et</mot>
+   <mot id="20" text="de" >de</mot>
+   <mot id="21" text="sa" Gender="Fem" Number="Sing" >sa</mot>
+   <mot id="22" text="mélodie" Gender="Fem" Number="Sing" >mélodie</mot>
+   <mot id="23" text="personnelle" Gender="Fem" Number="Sing" >personnelle</mot>
+   <mot id="24" text="..." >...</mot>
+</sentence>
+<sentence id="61">
+   <mot id="1" text="Peut" >Peut</mot>
+   <mot id="2" text="-" >-</mot>
+   <mot id="3" text="être" VerbForm="Inf" >être</mot>
+   <mot id="4" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="5" text="jour" Gender="Masc" Number="Sing" >jour</mot>
+   <mot id="6" text="le" Gender="Masc" Number="Sing" PronType="Art" >le</mot>
+   <mot id="7" text="croiserez" Gender="Masc" Number="Sing" >croiserez</mot>
+   <mot id="8" text="-vous" Gender="Masc" Number="Sing" >-vous</mot>
+   <mot id="9" text="sur" >sur</mot>
+   <mot id="10" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="11" text="chemin" Gender="Masc" Number="Sing" >chemin</mot>
+   <mot id="12" text="," >,</mot>
+   <mot id="13" text="roulant" Tense="Pres" VerbForm="Part" >roulant</mot>
+   <mot id="14" text="et" >et</mot>
+   <mot id="15" text="chantant" Tense="Pres" VerbForm="Part" >chantant</mot>
+   <mot id="16" text="," >,</mot>
+   <mot id="17" text="peut-être" >peut-être</mot>
+   <mot id="18" text="vous" Number="Plur" >vous</mot>
+   <mot id="19" text="demandera" Number="Sing" Tense="Fut" VerbForm="Fin" >demandera</mot>
+   <mot id="20" text="-t" Gender="Masc" Number="Sing" >-t</mot>
+   <mot id="21" text="-il" Gender="Masc" Number="Sing" >-il</mot>
+   <mot id="22" text="un" Gender="Masc" Number="Sing" PronType="Art" >un</mot>
+   <mot id="23" text="petit" Gender="Masc" Number="Sing" >petit</mot>
+   <mot id="24" text="coup" Gender="Masc" Number="Sing" >coup</mot>
+   <mot id="25" text="de" >de</mot>
+   <mot id="26" text="pouce" Gender="Masc" Number="Sing" >pouce</mot>
+   <mot id="27" text="," >,</mot>
+   <mot id="28" text="non" >non</mot>
+   <mot id="29" text="," >,</mot>
+   <mot id="30" text="de" >de</mot>
+   <mot id="31" text="pied" Number="Sing" >pied</mot>
+   <mot id="32" text="," >,</mot>
+   <mot id="33" text="pour" >pour</mot>
+   <mot id="34" text="aller" VerbForm="Inf" >aller</mot>
+   <mot id="35" text="plus" >plus</mot>
+   <mot id="36" text="loin" >loin</mot>
+   <mot id="37" text="," >,</mot>
+   <mot id="38" text="toujours" >toujours</mot>
+   <mot id="39" text="plus" >plus</mot>
+   <mot id="40" text="loin" >loin</mot>
+   <mot id="41" text="dans" >dans</mot>
+   <mot id="42" text="son" Number="Sing" >son</mot>
+   <mot id="43" text="voyage" Gender="Masc" Number="Sing" >voyage</mot>
+   <mot id="44" text="!" >!</mot>
+</sentence>
+<sentence id="62">
+   <mot id="1" text="..." >...</mot>
+   <mot id="2" text="
+
+" >
+
+</mot>
+   <mot id="3" text="FIN" >FIN</mot>
+   <mot id="4" text="
+" >
+</mot>
+</sentence>
+</text>
