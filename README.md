@@ -125,7 +125,7 @@ Ce fichier HTML permet de voir les phrases générées via un surlignement.
 > Pour effectuer d'autre test il suffit de modifier les fichiers .txt en modifiant les texte
 
 ___
-## [ENGLSIH PRESENTATION]
+## [ENGLISH PRESENTATION]
 ### 1. <ins>[Information]</ins>
 
 Project created by D-TheProgrammer
