@@ -3,9 +3,9 @@
 [English] Project Text Analysis and Tokenization Project (First it will be the French README then the English README After)  
 
 #### SOMMAIRE / SUMMARY
-- Présentation en francais / Presentation in French
-- Présentation en anglais / Presentation in English
-- Tuoriel dans les deux langues / Tutorial in both languages
+- [Présentation en francais / Presentation in French](#presentation-en-francais)
+- [Présentation en anglais / Presentation in English](#english-presentation)
+- [Tutoriel dans les deux langues / Tutorial in both languages](#tutoriel--tutorial)
 
 
 #### Test Online
